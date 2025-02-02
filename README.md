@@ -8,7 +8,6 @@ With a master’s degree in civil engineering, I reached the top of that field, 
 
  **Never stop reinventing.** 
 
-
 ---
 
 ### 🔧 What I Build  
