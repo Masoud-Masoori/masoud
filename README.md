@@ -48,4 +48,3 @@ With a master’s degree in civil engineering, I reached the top of that field, 
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)  
